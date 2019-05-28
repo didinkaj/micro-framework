@@ -1,0 +1,13 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+header{
+	background:#e3e3e3;
+	text-align:center;
+	padding: 20px;
+}
+
+section{
+	height: 400px;
+}
